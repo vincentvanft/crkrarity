@@ -9,7 +9,7 @@ const config = {
     ignore_traits: ['date'], 
     sqlite_file_name: 'database.sqlite',
     ga: 'G-BW69Z04YTP',
-    main_og_image: 'https://crkograrity.herokuapp.com/images/og.png',
+    main_og_image: 'https://crkrarity.herokuapp.com/images/og.png',
     item_path_name: 'CRK',
     page_item_num: 12,
     content_image_is_video: false,
