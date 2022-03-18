@@ -11,7 +11,7 @@ const config = {
     ga: 'G-BW69Z04YTP',
     main_og_image: 'https://crkrarity.herokuapp.com/images/og.png',
     item_path_name: 'CRK',
-    page_item_num: 50,
+    page_item_num: 12,
     content_image_is_video: false,
     content_image_frame: 'rectangle', // circle, rectangle
     use_wallet: false
